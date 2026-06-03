@@ -48,7 +48,6 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
-  assets:
-    - assets/Hey_Tutor.ppn
+  assets
     - assets/pyq_database.json
     - assets/lottie/mic_pulse.json
