@@ -1,0 +1,35 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+*.iml
+
+# Android
+android/local.properties
+android/.gradle/
+android/captures/
+android/gradlew
+android/gradlew.bat
+android/gradle/wrapper/gradle-wrapper.jar
+android/app/debug/
+android/app/profile/
+android/app/release/
+android/app/google-services.json
+
+# API Keys — NEVER commit these
+lib/utils/constants.dart
+
+# IDE
+.idea/
+*.iws
+.vscode/
+
+# macOS
+.DS_Store
+
+# Misc
+*.log

@@ -1,0 +1,116 @@
+{
+  "version": "1.0",
+  "description": "Previous Year Questions database for VoiceTutor AI",
+  "questions": [
+    {
+      "id": "pyq_001",
+      "exam": "WB Panchayat",
+      "subject": "GK",
+      "question": "পশ্চিমবঙ্গের রাজধানীর নাম কী?",
+      "correctAnswer": "কলকাতা",
+      "explanation": "কলকাতা পশ্চিমবঙ্গের রাজধানী এবং ভারতের একটি প্রধান মেট্রোপলিটন শহর।",
+      "difficulty": "Easy",
+      "language": "Bengali",
+      "isFromPYQ": true
+    },
+    {
+      "id": "pyq_002",
+      "exam": "WB Panchayat",
+      "subject": "Polity",
+      "question": "৭৩তম সংবিধান সংশোধনী কোন বিষয়ে?",
+      "correctAnswer": "পঞ্চায়েতি রাজ",
+      "explanation": "১৯৯২ সালে ৭৩তম সংবিধান সংশোধনীর মাধ্যমে পঞ্চায়েতি রাজ ব্যবস্থাকে সাংবিধানিক মর্যাদা দেওয়া হয়।",
+      "difficulty": "Medium",
+      "language": "Bengali",
+      "isFromPYQ": true
+    },
+    {
+      "id": "pyq_003",
+      "exam": "SSC CGL",
+      "subject": "GK",
+      "question": "Who was the first Governor-General of independent India?",
+      "correctAnswer": "Lord Mountbatten",
+      "explanation": "Lord Mountbatten served as the first Governor-General of independent India from August 1947 to June 1948.",
+      "difficulty": "Easy",
+      "language": "English",
+      "isFromPYQ": true
+    },
+    {
+      "id": "pyq_004",
+      "exam": "SSC CGL",
+      "subject": "Math",
+      "question": "What is 25% of 480?",
+      "correctAnswer": "120",
+      "explanation": "25% of 480 = (25/100) × 480 = 0.25 × 480 = 120.",
+      "difficulty": "Easy",
+      "language": "English",
+      "isFromPYQ": true
+    },
+    {
+      "id": "pyq_005",
+      "exam": "RRB NTPC",
+      "subject": "GK",
+      "question": "ভারতে প্রথম রেল কোন বছর চালু হয়?",
+      "correctAnswer": "১৮৫৩",
+      "explanation": "১৮৫৩ সালের ১৬ এপ্রিল ভারতের প্রথম রেল বোম্বাই থেকে থানে পর্যন্ত চালু হয়।",
+      "difficulty": "Easy",
+      "language": "Bengali",
+      "isFromPYQ": true
+    },
+    {
+      "id": "pyq_006",
+      "exam": "Banking",
+      "subject": "GK",
+      "question": "What does NEFT stand for?",
+      "correctAnswer": "National Electronic Funds Transfer",
+      "explanation": "NEFT stands for National Electronic Funds Transfer, a payment system used for electronic transfer of funds between bank accounts.",
+      "difficulty": "Easy",
+      "language": "English",
+      "isFromPYQ": true
+    },
+    {
+      "id": "pyq_007",
+      "exam": "SSC CGL",
+      "subject": "English",
+      "question": "Synonym of 'Abundant'?",
+      "correctAnswer": "Plentiful",
+      "explanation": "Abundant means existing in large quantities; plentiful, copious. Plentiful is its direct synonym.",
+      "difficulty": "Easy",
+      "language": "English",
+      "isFromPYQ": true
+    },
+    {
+      "id": "pyq_008",
+      "exam": "Banking",
+      "subject": "GK",
+      "question": "What does CRR stand for in banking?",
+      "correctAnswer": "Cash Reserve Ratio",
+      "explanation": "CRR or Cash Reserve Ratio is the minimum percentage of deposits that commercial banks must hold as reserves with the RBI.",
+      "difficulty": "Medium",
+      "language": "English",
+      "isFromPYQ": true
+    },
+    {
+      "id": "pyq_009",
+      "exam": "WB Panchayat",
+      "subject": "GK",
+      "question": "পশ্চিমবঙ্গে কতটি জেলা রয়েছে?",
+      "correctAnswer": "২৩টি",
+      "explanation": "বর্তমানে পশ্চিমবঙ্গে ২৩টি জেলা রয়েছে।",
+      "difficulty": "Easy",
+      "language": "Bengali",
+      "isFromPYQ": true
+    },
+    {
+      "id": "pyq_010",
+      "exam": "SSC CGL",
+      "subject": "GK",
+      "question": "What is the SI unit of electric current?",
+      "correctAnswer": "Ampere",
+      "explanation": "The SI unit of electric current is the Ampere, named after French physicist André-Marie Ampère.",
+      "difficulty": "Easy",
+      "language": "English",
+      "isFromPYQ": true
+    }
+  ]
+}
