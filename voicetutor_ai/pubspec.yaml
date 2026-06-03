@@ -10,29 +10,16 @@ dependencies:
   flutter:
     sdk: flutter
 
-  # State Management
   flutter_riverpod: ^2.4.9
-
-  # Voice Services
   speech_to_text: ^6.5.1
   flutter_tts: ^3.8.5
-
-  # Wake Word Detection
   porcupine_flutter: ^3.0.1
-
-  # AI Backend
   google_generative_ai: ^0.4.3
-
-  # Local Database
   hive: ^2.2.3
   hive_flutter: ^1.1.0
-
-  # Firebase
   firebase_core: ^2.24.2
   cloud_firestore: ^4.14.0
   firebase_auth: ^4.15.3
-
-  # Utilities
   shared_preferences: ^2.2.2
   lottie: ^3.0.0
   intl: ^0.19.0
@@ -48,6 +35,6 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
-  assets
+  assets:
     - assets/pyq_database.json
     - assets/lottie/mic_pulse.json
